@@ -1,2 +1,2 @@
 # f-merge
-Merge multi files into one
+Merge multi files into one.
